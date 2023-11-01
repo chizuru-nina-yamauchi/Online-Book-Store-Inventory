@@ -1,5 +1,5 @@
 ### First Of All
-I copied my code from my assignment for the online course that is private repository on GitHub. Therefore, I upload whole my code with one git commit.
+I copied my code from my assignment for the online course that is private repository on GitHub. Therefore, I upload whole my code for online book store inventory with one git commit.
 
 ---
 ### Level of Difficulty: Intermediate
